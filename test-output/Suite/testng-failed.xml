@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testNgTestClass.CF_001ValidateSearchResearchHealthPlanePolicies">
+        <methods>
+          <include name="validateTestPlansFromTextAndBanners"/>
+          <include name="enterMemberDetails"/>
+          <include name="closingBrowser"/>
+          <include name="launchingBrowser"/>
+        </methods>
+      </class> <!-- testNgTestClass.CF_001ValidateSearchResearchHealthPlanePolicies -->
+      <class name="testNgTestClass.CF_002Validate_Pincode_Error_Msg">
+        <methods>
+          <include name="closeCoverFox"/>
+          <include name="launchCoverFox"/>
+          <include name="validate_Pincode_ErrorMsg"/>
+          <include name="enterUserDetails"/>
+        </methods>
+      </class> <!-- testNgTestClass.CF_002Validate_Pincode_Error_Msg -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

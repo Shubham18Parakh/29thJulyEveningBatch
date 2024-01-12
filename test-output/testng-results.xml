@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Opening Browser]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Gender Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On Next Button]]>
+    </line>
+    <line>
+      <![CDATA[Handling Age DropDown]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On Next Button]]>
+    </line>
+    <line>
+      <![CDATA[Entering Pincode]]>
+    </line>
+    <line>
+      <![CDATA[Entering Mobile Number]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On Continue Button]]>
+    </line>
+    <line>
+      <![CDATA[Fatching Number Of Result From Text]]>
+    </line>
+    <line>
+      <![CDATA[Fatching Number Of Result From banners]]>
+    </line>
+    <line>
+      <![CDATA[Tc is passed]]>
+    </line>
+    <line>
+      <![CDATA[Taking screenshot Of Final Result]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Validating Pincode Error Msg]]>
+    </line>
+    <line>
+      <![CDATA[TC IS Passed]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-04T03:30:52 IST" name="Suite" finished-at="2024-01-04T03:35:26 IST" duration-ms="274436">
+    <groups>
+    </groups>
+    <test started-at="2024-01-04T03:30:52 IST" name="Test" finished-at="2024-01-04T03:35:26 IST" duration-ms="274436">
+      <class name="testNgTestClass.CF_002Validate_Pincode_Error_Msg">
+        <test-method is-config="true" signature="launchCoverFox()[pri:0, instance:testNgTestClass.CF_002Validate_Pincode_Error_Msg@77f1baf5]" started-at="2024-01-04T03:34:33 IST" name="launchCoverFox" finished-at="2024-01-04T03:35:00 IST" duration-ms="27514" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchCoverFox -->
+        <test-method is-config="true" signature="enterUserDetails()[pri:0, instance:testNgTestClass.CF_002Validate_Pincode_Error_Msg@77f1baf5]" started-at="2024-01-04T03:35:00 IST" name="enterUserDetails" finished-at="2024-01-04T03:35:15 IST" duration-ms="14758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUserDetails -->
+        <test-method signature="validate_Pincode_ErrorMsg()[pri:0, instance:testNgTestClass.CF_002Validate_Pincode_Error_Msg@77f1baf5]" started-at="2024-01-04T03:35:15 IST" name="validate_Pincode_ErrorMsg" finished-at="2024-01-04T03:35:16 IST" duration-ms="791" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Validating Pincode Error Msg]]>
+            </line>
+            <line>
+              <![CDATA[TC IS Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validate_Pincode_ErrorMsg -->
+        <test-method is-config="true" signature="closeCoverFox()[pri:0, instance:testNgTestClass.CF_002Validate_Pincode_Error_Msg@77f1baf5]" started-at="2024-01-04T03:35:16 IST" name="closeCoverFox" finished-at="2024-01-04T03:35:26 IST" duration-ms="10356" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeCoverFox -->
+      </class> <!-- testNgTestClass.CF_002Validate_Pincode_Error_Msg -->
+      <class name="testNgTestClass.CF_001ValidateSearchResearchHealthPlanePolicies">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:testNgTestClass.CF_001ValidateSearchResearchHealthPlanePolicies@fa4c865]" started-at="2024-01-04T03:30:52 IST" name="launchingBrowser" finished-at="2024-01-04T03:33:28 IST" duration-ms="155538" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+            <line>
+              <![CDATA[Opening Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="enterMemberDetails()[pri:0, instance:testNgTestClass.CF_001ValidateSearchResearchHealthPlanePolicies@fa4c865]" started-at="2024-01-04T03:33:28 IST" name="enterMemberDetails" finished-at="2024-01-04T03:34:01 IST" duration-ms="33532" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Gender Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On Next Button]]>
+            </line>
+            <line>
+              <![CDATA[Handling Age DropDown]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On Next Button]]>
+            </line>
+            <line>
+              <![CDATA[Entering Pincode]]>
+            </line>
+            <line>
+              <![CDATA[Entering Mobile Number]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On Continue Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterMemberDetails -->
+        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:testNgTestClass.CF_001ValidateSearchResearchHealthPlanePolicies@fa4c865]" started-at="2024-01-04T03:34:01 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-04T03:34:17 IST" duration-ms="15651" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Fatching Number Of Result From Text]]>
+            </line>
+            <line>
+              <![CDATA[Fatching Number Of Result From banners]]>
+            </line>
+            <line>
+              <![CDATA[Tc is passed]]>
+            </line>
+            <line>
+              <![CDATA[Taking screenshot Of Final Result]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateTestPlansFromTextAndBanners -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:testNgTestClass.CF_001ValidateSearchResearchHealthPlanePolicies@fa4c865]" started-at="2024-01-04T03:34:17 IST" name="closingBrowser" finished-at="2024-01-04T03:34:33 IST" duration-ms="15967" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- testNgTestClass.CF_001ValidateSearchResearchHealthPlanePolicies -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
